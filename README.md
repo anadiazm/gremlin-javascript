@@ -1,6 +1,7 @@
 # gremlin-javascript
 
-Run the application and the server:
+After installing dependencies in both app and server, run both of them:
+
 #### React app 
 
     cd client
