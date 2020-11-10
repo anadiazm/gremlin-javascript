@@ -4,9 +4,11 @@
 > React app 
 
 cd client
+
 yarn start
 
 > Expressjs Server
 
 cd api
+
 npm start
