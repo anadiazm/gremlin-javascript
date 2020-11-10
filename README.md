@@ -10,3 +10,10 @@
 
   cd api  
   npm start
+
+
+
+    <?php
+        echo "Hello world!";
+    ?>
+    
