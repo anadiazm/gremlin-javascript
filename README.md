@@ -8,12 +8,6 @@
 
 > Expressjs Server
 
-  cd api  
-  npm start
-
-
-
-    <?php
-        echo "Hello world!";
-    ?>
+    cd api
+        npm start
     
