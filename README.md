@@ -3,7 +3,7 @@
 Run the application and the server:
 #### React app 
 
-    cd api
+    cd client
     yarn start
 
 #### Expressjs Server
