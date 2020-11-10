@@ -3,12 +3,10 @@
 #### Run the application and the server:
 > React app 
 
-cd client
-
+cd client  
 yarn start
 
 > Expressjs Server
 
-cd api
-
+cd api  
 npm start
